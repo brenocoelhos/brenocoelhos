@@ -1,4 +1,4 @@
-<h1 align="left">Olá pode ir entrando!👋! Meu nome é Breno Coelho</h2>
+<h1 align="left">Olá pode ir entrando! Meu nome é Breno Coelho</h2>
 
 <h2>📖 Sobre mim</h2>
 <p>Sou um programador apaixonado por tecnologia e por descobrir coisas novas. Gosto de explorar diferentes áreas do desenvolvimento, sempre buscando aprender algo que me desafie e me faça evoluir. Tenho um grande amor por desenvolver em Java, linguagem que me conquistou pela estrutura e versatilidade.</p>
